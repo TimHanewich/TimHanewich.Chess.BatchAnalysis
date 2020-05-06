@@ -1,0 +1,9 @@
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\bin\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.deps.json
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\bin\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.dll
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\bin\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.pdb
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.csprojAssemblyReference.cache
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.AssemblyInfoInputs.cache
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.AssemblyInfo.cs
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.dll
+C:\Users\TaHan\Documents\GitHub\TimHanewich.Chess.BatchAnalysis\obj\Debug\netstandard2.0\TimHanewich.Chess.BatchAnalysis.pdb
