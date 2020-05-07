@@ -9,7 +9,7 @@
     <Description>Class library for handling and analyzing PGN files at scale</Description>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>
     <FileVersion>0.0.0.0</FileVersion>
-    <PackageIcon>Knight.jpg</PackageIcon>
+    <PackageIcon>KnightIcon.jpg</PackageIcon>
     <PackageTags>chess,pgn,batch,analysis,file</PackageTags>
   </PropertyGroup>
 
@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\Downloads\Knight.jpg">
+    <None Include="KnightIcon.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
